@@ -1,15 +1,4 @@
-import {
-  // אם תרצו אייקון בכפתור הכניסה
-  LogIn,
-} from "lucide-react";
-
-/**
- * מסך פתיחה פשוט: שם, תמונה, כפתור כניסה למערכת.
- * --------------------------------------------------
- * TODO: PHOTO_URL — להחליף בתמונה האמיתית של נאדר טאהא.
- * כרגע מוצב avatar מאויר זמני (לא תמונה אמיתית).
- * TODO: onLogin — לחבר לפעולת הכניסה בפועל (ניווט / קריאת API).
- */
+import { LogIn } from "lucide-react";
 
 const PHOTO_URL =
   "https://api.dicebear.com/7.x/avataaars/svg?seed=NaderTaha&backgroundColor=f5efe3";
