@@ -62,7 +62,7 @@ const STATION_NAMES = {
 
 // נציגי בחירות לשיוך מצביעים
 const REPRESENTATIVES = [
-  { id: "r1", name: "סאמר חוסיין", phone: "050-1112233" },
+  { id: "r1", name: "נאדר טאהא", phone: "050-1112233" },
   { id: "r2", name: "ראניה עיסא", phone: "052-2223344" },
   { id: "r3", name: "באסל קאסם", phone: "054-3334455" },
   { id: "r4", name: "נור מנסור", phone: "053-4445566" },
