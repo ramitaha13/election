@@ -45,7 +45,7 @@ const NAV_ITEMS = [
     id: "voter-check",
     label: "סימון מצביעים",
     icon: ClipboardCheck,
-    path: "/admin/voter-check",
+    path: "admindashboard",
   },
   { id: "stations", label: "קלפיות", icon: MapPin, path: "/stationsPage" },
   { id: "voters", label: "בוחרים", icon: Users, path: "/voterspage" },
