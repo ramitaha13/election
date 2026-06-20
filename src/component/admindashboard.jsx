@@ -403,9 +403,6 @@ function OverallTurnoutCard({ percent }) {
         </div>
       </div>
       <p className="text-sm font-medium text-[#EDEAE2] mb-1">אחוז הצבעה כללי</p>
-      <p className="text-xs text-[#EDEAE2]/60 leading-relaxed max-w-[14rem]">
-        גבוה ב-4.1 נקודות אחוז לעומת המחזור הקודם באותה שעה.
-      </p>
     </div>
   );
 }
